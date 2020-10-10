@@ -12,6 +12,7 @@ def say_what():
 
 def main():
     hello(say_what())
+    Print("XD")
     return 0
 
 
